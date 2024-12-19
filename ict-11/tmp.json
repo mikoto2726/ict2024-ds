@@ -1,0 +1,51 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "1.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": "1727243146"
+  },
+  "entity": [
+    {
+      "id": "AR1",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1727449200",
+            "end": "1727621940"
+          }
+        ],
+        "informedEntity": [
+          {
+            "agencyId": "4000020022012"
+          }
+        ],
+        "cause": "OTHER_CAUSE",
+        "effect": "OTHER_EFFECT",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.city.aomori.aomori.jp/koutsu/iccard-aopass/1day-2day.html",
+              "language": "ja"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "\u30d5\u30ea\u30fc\u30eb\u30fc\u30c81\u65e5\u4e57\u8eca\u5238\u306e\u304a\u77e5\u3089\u305b",
+              "language": "ja"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "\u571f\u30fb\u65e5\u30fb\u795d\u306f\u30011\u65e5500\u5186\u4e57\u308a\u653e\u984c\u306e\u300c\u30d5\u30ea\u30fc\u30eb\u30fc\u30c81\u65e5\u4e57\u8eca\u5238\uff08IC\u30ab\u30fc\u30c9\u9650\u5b9a\uff09\u300d\u304c\u304a\u5f97\u3067\u3059\u3002",
+              "language": "ja"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
