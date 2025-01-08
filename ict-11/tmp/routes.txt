@@ -1,257 +1,165 @@
-﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
-国道・古川線(1021),4000020022012,A1 国道・古川線,,国道,3,80FF80,000000
-造道・八重田線(1022),4000020022012,C10 造道・八重田線,,国道,3,80FF80,000000
-造道・八重田線(1041),4000020022012,C12 造道・八重田線,,国道,3,80FF80,000000
-国道・古川線(1051),4000020022012,A1 国道・古川線,,国道,3,80FF80,000000
-造道・八重田線(1052),4000020022012,C10 造道・八重田線,,国道,3,80FF80,000000
-国道・古川線(1061),4000020022012,A1 国道・古川線,,国道,3,80FF80,000000
-造道・八重田線(1062),4000020022012,C12 造道・八重田線,,国道,3,80FF80,000000
-新町線(3021),4000020022012,B1 新町線,,新町,3,80FF80,000000
-造道・八重田線(3022),4000020022012,C10 造道・八重田線,,新町,3,80FF80,000000
-造道・八重田線(3031),4000020022012,C12 造道・八重田線,,新町,3,80FF80,000000
-新町線(3032),4000020022012,B1 新町線,,新町,3,80FF80,000000
-旭町通り線(33091),4000020022012,M44 旭町通り線,,野木・大別内,3,80FF80,000000
-国道・古川線(33092),4000020022012,A1 国道・古川線,,野木・大別内,3,80FF80,000000
-旭町通り線(33101),4000020022012,M44 旭町通り線,,野木・大別内,3,80FF80,000000
-国道・古川線(33102),4000020022012,A1 国道・古川線,,野木・大別内,3,80FF80,000000
-国道・古川線(41131),4000020022012,A1 国道・古川線,,西バイパス,3,80FF80,000000
-西バイパス線(41132),4000020022012,U50 西バイパス線,,西バイパス,3,80FF80,000000
-観光通り線(9031),4000020022012,K32 観光通り線,,幸畑団地,3,80FF80,000000
-中筒井線(8031),4000020022012,J24 中筒井線,,田茂木野,3,80FF80,000000
-新町線(8032),4000020022012,B1 新町線,,田茂木野,3,80FF80,000000
-造道・八重田線(8052),4000020022012,C10 造道・八重田線,,田茂木野,3,80FF80,000000
-中筒井線(9021),4000020022012,J32 中筒井線,,幸畑団地,3,80FF80,000000
-新町線(9022),4000020022012,B1 新町線,,幸畑団地,3,80FF80,000000
-国道・古川線(12011),4000020022012,A1 国道・古川線,,戸山団地,3,80FF80,000000
-松森・浜館線(12061),4000020022012,H21 松森・浜館線,,戸山団地,3,80FF80,000000
-新町線(12062),4000020022012,B1 新町線,,戸山団地,3,80FF80,000000
-松森・浜館線(12071),4000020022012,H21 松森・浜館線,,戸山団地,3,80FF80,000000
-明の星通り線(12081),4000020022012,G21 明の星通り線,,戸山団地,3,80FF80,000000
-新町線(12082),4000020022012,B1 新町線,,戸山団地,3,80FF80,000000
-明の星通り線(12122),4000020022012,G21 明の星通り線,,戸山団地,3,80FF80,000000
-明の星通り線(12141),4000020022012,G21 明の星通り線,,戸山団地,3,80FF80,000000
-新町線(12142),4000020022012,B1 新町線,,戸山団地,3,80FF80,000000
-明の星通り線(12151),4000020022012,G21 明の星通り線,,戸山団地,3,80FF80,000000
-造道・八重田線(12152),4000020022012,C10 造道・八重田線,,戸山団地,3,80FF80,000000
-新町線(13072),4000020022012,B1 新町線,,沢山,3,80FF80,000000
-横内環状線(14021),4000020022012,横内環状線,,横内環状,3,80FF80,000000
-横内環状線(14022),4000020022012,横内環状線,,横内環状,3,80FF80,000000
-横内環状線(14081),4000020022012,横内環状線,,横内環状,3,80FF80,000000
-新町線(15022),4000020022012,B1 新町線,,桑原・昭和大仏,3,80FF80,000000
-中筒井線(15031),4000020022012,J20 中筒井線,,桑原・昭和大仏,3,80FF80,000000
-新町線(15032),4000020022012,B1 新町線,,桑原・昭和大仏,3,80FF80,000000
-観光通り線(16031),4000020022012,K31 観光通り線,,青森公立大学,3,80FF80,000000
-国道・古川線(16032),4000020022012,A1 国道・古川線,,青森公立大学,3,80FF80,000000
-国道・古川線(16042),4000020022012,A1 国道・古川線,,青森公立大学,3,80FF80,000000
-観光通り線(16051),4000020022012,K31 観光通り線,,青森公立大学,3,80FF80,000000
-石江・新城線(16052),4000020022012,T50 石江・新城線,,青森公立大学,3,80FF80,000000
-造道・八重田線(16092),4000020022012,C10 造道・八重田線,,青森公立大学,3,80FF80,000000
-観光通り線(16121),4000020022012,K31 観光通り線,,青森公立大学,3,80FF80,000000
-観光通り線(16131),4000020022012,K31 観光通り線,,青森公立大学,3,80FF80,000000
-石江・新城線(16132),4000020022012,T50 石江・新城線,,青森公立大学,3,80FF80,000000
-観光通り線(17021),4000020022012,K30 観光通り線,,モヤヒルズ,3,80FF80,000000
-国道・古川線(17032),4000020022012,A1 国道・古川線,,モヤヒルズ,3,80FF80,000000
-石江・新城線(39321),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-中筒井線(19031),4000020022012,J38 中筒井線,,流通団地,3,80FF80,000000
-新町線(19032),4000020022012,B1 新町線,,流通団地,3,80FF80,000000
-国道・古川線(39322),4000020022012,A1 国道・古川線,,新城,3,80FF80,000000
-造道・八重田線(19042),4000020022012,C10 造道・八重田線,,流通団地,3,80FF80,000000
-造道・八重田線(1091),4000020022012,C10 造道・八重田線,,国道,3,80FF80,000000
-旭町通り線(28101),4000020022012,M43 旭町通り線,,荒川,3,80FF80,000000
-観光通り線(22161),4000020022012,K37 観光通り線,,問屋町,3,80FF80,000000
-観光通り線(19101),4000020022012,K38 観光通り線,,流通団地,3,80FF80,000000
-旭町通り線(20121),4000020022012,M38 旭町通り線,,南部工業団地,3,80FF80,000000
-観光通り線(20131),4000020022012,K38 観光通り線,,南部工業団地,3,80FF80,000000
-国道・古川線(20132),4000020022012,A1 国道・古川線,,南部工業団地,3,80FF80,000000
-観光通り線(21021),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-国道・古川線(21022),4000020022012,A1 国道・古川線,,市民病院,3,80FF80,000000
-観光通り線(21031),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-石江・新城線(21032),4000020022012,T50 石江・新城線,,市民病院,3,80FF80,000000
-国道・古川線(28102),4000020022012,A1 国道・古川線,,荒川,3,80FF80,000000
-旭町通り線(28111),4000020022012,M43 旭町通り線,,荒川,3,80FF80,000000
-国道・古川線(28112),4000020022012,A1 国道・古川線,,荒川,3,80FF80,000000
-沖館・新田線(28082),4000020022012,W53 沖館・新田線,,荒川,3,80FF80,000000
-造道・八重田線(28122),4000020022012,C12 造道・八重田線,,荒川,3,80FF80,000000
-観光通り線(21101),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-造道・八重田線(21102),4000020022012,C10 造道・八重田線,,市民病院,3,80FF80,000000
-造道・八重田線(21111),4000020022012,C12 造道・八重田線,,市民病院,3,80FF80,000000
-中央大橋線(17001),4000020022012,L31 中央大橋線,,モヤヒルズ,3,80FF80,000000
-観光通り線(21151),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-浪館通り線(21152),4000020022012,P40 浪館通り線,,市民病院,3,80FF80,000000
-国道・古川線(17002),4000020022012,A1 国道・古川線,,モヤヒルズ,3,80FF80,000000
-観光通り線(21171),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-石江・新城線(21172),4000020022012,T50 石江・新城線,,市民病院,3,80FF80,000000
-観光通り線(22021),4000020022012,K37 観光通り線,,問屋町,3,80FF80,000000
-国道・古川線(22022),4000020022012,A1 国道・古川線,,問屋町,3,80FF80,000000
-観光通り線(22031),4000020022012,K37 観光通り線,,問屋町,3,80FF80,000000
-石江・新城線(22032),4000020022012,T50 石江・新城線,,問屋町,3,80FF80,000000
-造道・八重田線(28162),4000020022012,C10 造道・八重田線,,荒川,3,80FF80,000000
-観光通り線(22071),4000020022012,K37 観光通り線,,問屋町,3,80FF80,000000
-造道・八重田線(22072),4000020022012,C10 造道・八重田線,,問屋町,3,80FF80,000000
-旭町通り線(17011),4000020022012,M31 旭町通り線,,モヤヒルズ,3,80FF80,000000
-観光通り線(22171),4000020022012,K37 観光通り線,,問屋町,3,80FF80,000000
-石江・新城線(22172),4000020022012,T50 石江・新城線,,問屋町,3,80FF80,000000
-観光通り線(24011),4000020022012,K33 観光通り線,,土木事務所,3,80FF80,000000
-国道・古川線(24012),4000020022012,A1 国道・古川線,,土木事務所,3,80FF80,000000
-国道・古川線(24032),4000020022012,A1 国道・古川線,,土木事務所,3,80FF80,000000
-造道・八重田線(25051),4000020022012,C13 造道・八重田線,,築木館,3,80FF80,000000
-国道・古川線(25052),4000020022012,A1 国道・古川線,,築木館,3,80FF80,000000
-造道・八重田線(37052),4000020022012,C10 造道・八重田線,,南高校,3,80FF80,000000
-小柳線(6141),4000020022012,F10 小柳線,,小柳団地,3,80FF80,000000
-国道・古川線(6142),4000020022012,A1 国道・古川線,,小柳団地,3,80FF80,000000
-県立美術館線(36271),4000020022012,S51 県立美術館線,,三内丸山遺跡,3,80FF80,000000
-小柳線(6151),4000020022012,F12 小柳線,,小柳団地,3,80FF80,000000
-中央大橋線(28021),4000020022012,L43 中央大橋線,,荒川,3,80FF80,000000
-国道・古川線(28022),4000020022012,A1 国道・古川線,,荒川,3,80FF80,000000
-中央大橋線(28031),4000020022012,L43 中央大橋線,,荒川,3,80FF80,000000
-石江・新城線(28032),4000020022012,T50 石江・新城線,,荒川,3,80FF80,000000
-国道・古川線(6152),4000020022012,A1 国道・古川線,,小柳団地,3,80FF80,000000
-石江・新城線(17012),4000020022012,T50 石江・新城線,,モヤヒルズ,3,80FF80,000000
-観光通り線(28061),4000020022012,K43 観光通り線,,荒川,3,80FF80,000000
-新町線(28062),4000020022012,B1 新町線,,荒川,3,80FF80,000000
-明の星通り線(10011),4000020022012,G22 明の星通り線,,商業高校,3,80FF80,000000
-小柳線(6161),4000020022012,F10 小柳線,,小柳団地,3,80FF80,000000
-国道・古川線(6162),4000020022012,A1 国道・古川線,,小柳団地,3,80FF80,000000
-国道・古川線(36212),4000020022012,A1 国道・古川線,,三内丸山遺跡,3,80FF80,000000
-小柳線(6171),4000020022012,F12 小柳線,,小柳団地,3,80FF80,000000
-国道・古川線(6172),4000020022012,A1 国道・古川線,,小柳団地,3,80FF80,000000
-浪館通り線(36221),4000020022012,P51 浪館通り線,,三内丸山遺跡,3,80FF80,000000
-国道・古川線(36222),4000020022012,A1 国道・古川線,,三内丸山遺跡,3,80FF80,000000
-国道・古川線(10012),4000020022012,A1 国道・古川線,,商業高校,3,80FF80,000000
-明の星通り線(13071),4000020022012,G21 明の星通り線,,沢山,3,80FF80,000000
-造道・八重田線(44242),4000020022012,C10 造道・八重田線,,つくしが丘病院・岩渡,3,80FF80,000000
-国道・古川線(44374),4000020022012,A1 国道・古川線,,つくしが丘病院・岩渡,3,80FF80,000000
-造道・八重田線(36232),4000020022012,C10 造道・八重田線,,三内丸山遺跡,3,80FF80,000000
-造道・八重田線(36242),4000020022012,C10 造道・八重田線,,三内丸山遺跡,3,80FF80,000000
-国道・古川線(36252),4000020022012,A1 国道・古川線,,三内丸山遺跡,3,80FF80,000000
-造道・八重田線(44201),4000020022012,C12 造道・八重田線,,つくしが丘病院・岩渡,3,80FF80,000000
-滝内・三内線(44241),4000020022012,R52 滝内・三内線,,つくしが丘病院・岩渡,3,80FF80,000000
-滝内・三内線(44371),4000020022012,R52 滝内・三内線,,つくしが丘病院・岩渡,3,80FF80,000000
-国道・古川線(44372),4000020022012,A1 国道・古川線,,つくしが丘病院・岩渡,3,80FF80,000000
-造道・八重田線(33062),4000020022012,C12 造道・八重田線,,野木・大別内,3,80FF80,000000
-旭町通り線(33071),4000020022012,M44 旭町通り線,,野木・大別内,3,80FF80,000000
-滝内・三内線(44373),4000020022012,R52 滝内・三内線,,つくしが丘病院・岩渡,3,80FF80,000000
-明の星通り線(19041),4000020022012,G38 明の星通り線,,流通団地,3,80FF80,000000
-県立美術館線(36201),4000020022012,S51 県立美術館線,,三内丸山遺跡,3,80FF80,000000
-国道・古川線(36202),4000020022012,A1 国道・古川線,,三内丸山遺跡,3,80FF80,000000
-県立美術館線(36251),4000020022012,S51 県立美術館線,,三内丸山遺跡,3,80FF80,000000
-浪館通り線(35141),4000020022012,P40 浪館通り線,,浪館,3,80FF80,000000
-造道・八重田線(35142),4000020022012,C10 造道・八重田線,,浪館,3,80FF80,000000
-浪館通り線(35151),4000020022012,P40 浪館通り線,,浪館,3,80FF80,000000
-造道・八重田線(35152),4000020022012,C12 造道・八重田線,,浪館,3,80FF80,000000
-浪館通り線(35161),4000020022012,P40 浪館通り線,,浪館,3,80FF80,000000
-国道・古川線(35162),4000020022012,A1 国道・古川線,,浪館,3,80FF80,000000
-旭町通り線(37031),4000020022012,M42 旭町通り線,,南高校,3,80FF80,000000
-国道・古川線(37032),4000020022012,A1 国道・古川線,,南高校,3,80FF80,000000
-造道・八重田線(37042),4000020022012,C10 造道・八重田線,,南高校,3,80FF80,000000
-浪館通り線(38031),4000020022012,P41 浪館通り線,,細越,3,80FF80,000000
-造道・八重田線(38032),4000020022012,C10 造道・八重田線,,細越,3,80FF80,000000
-造道・八重田線(38041),4000020022012,C12 造道・八重田線,,細越,3,80FF80,000000
-浪館通り線(38042),4000020022012,P41 浪館通り線,,細越,3,80FF80,000000
-浪館通り線(38051),4000020022012,P41 浪館通り線,,細越,3,80FF80,000000
-国道・古川線(38052),4000020022012,A1 国道・古川線,,細越,3,80FF80,000000
-石江・新城線(39051),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-国道・古川線(39052),4000020022012,A1 国道・古川線,,新城,3,80FF80,000000
-石江・新城線(39061),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-国道・古川線(39062),4000020022012,A1 国道・古川線,,新城,3,80FF80,000000
-石江・新城線(39081),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(39082),4000020022012,C10 造道・八重田線,,新城,3,80FF80,000000
-石江・新城線(39101),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(39102),4000020022012,C10 造道・八重田線,,新城,3,80FF80,000000
-造道・八重田線(39121),4000020022012,C12 造道・八重田線,,新城,3,80FF80,000000
-石江・新城線(39122),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(39141),4000020022012,C12 造道・八重田線,,新城,3,80FF80,000000
-石江・新城線(39142),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-中筒井線(39172),4000020022012,J32 中筒井線,,新城,3,80FF80,000000
-石江・新城線(39181),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-国道・古川線(39182),4000020022012,A1 国道・古川線,,新城,3,80FF80,000000
-石江・新城線(39191),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-国道・古川線(39192),4000020022012,A1 国道・古川線,,新城,3,80FF80,000000
-石江・新城線(39201),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(39202),4000020022012,C10 造道・八重田線,,新城,3,80FF80,000000
-石江・新城線(39221),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(39222),4000020022012,C10 造道・八重田線,,新城,3,80FF80,000000
-石江・新城線(39232),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(39231),4000020022012,C12 造道・八重田線,,新城,3,80FF80,000000
-造道・八重田線(39251),4000020022012,C12 造道・八重田線,,新城,3,80FF80,000000
-石江・新城線(39252),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-造道・八重田線(41061),4000020022012,C12 造道・八重田線,,西バイパス,3,80FF80,000000
-西バイパス線(41081),4000020022012,U50 西バイパス線,,西バイパス,3,80FF80,000000
-西バイパス線(41091),4000020022012,U50 西バイパス線,,西バイパス,3,80FF80,000000
-沖館・新田線(45131),4000020022012,W53 沖館・新田線,,野木和団地,3,80FF80,000000
-国道・古川線(45132),4000020022012,A1 国道・古川線,,野木和団地,3,80FF80,000000
-沖館・新田線(45151),4000020022012,W53 沖館・新田線,,野木和団地,3,80FF80,000000
-国道・古川線(45152),4000020022012,A1 国道・古川線,,野木和団地,3,80FF80,000000
-石江・新城線(42051),4000020022012,T50 石江・新城線,,野木和団地,3,80FF80,000000
-沖館・新田線(47031),4000020022012,W54 沖館・新田線,,奥内・後潟,3,80FF80,000000
-国道・古川線(47032),4000020022012,A1 国道・古川線,,奥内・後潟,3,80FF80,000000
-福祉増進センター(48011),4000020022012,60 福祉増進センター,,福祉増進センタ－,3,80FF80,000000
-石江・新城線(48012),4000020022012,T50 石江・新城線,,福祉増進センタ－,3,80FF80,000000
-旭町通り線(48021),4000020022012,M42 旭町通り線,,福祉増進センタ－,3,80FF80,000000
-福祉増進センター(48131),4000020022012,60 福祉増進センター,,福祉増進センタ－,3,80FF80,000000
-浪館通り線(48132),4000020022012,P41 浪館通り線,,福祉増進センタ－,3,80FF80,000000
-福祉増進センター(48211),4000020022012,60 福祉増進センター,,福祉増進センタ－,3,80FF80,000000
-浪館通り線(48212),4000020022012,P40 浪館通り線,,福祉増進センタ－,3,80FF80,000000
-西バイパス線(48252),4000020022012,U50 西バイパス線,,福祉増進センタ－,3,80FF80,000000
-福祉増進センター(39291),4000020022012,60 福祉増進センター,,福祉増進センタ－,3,80FF80,000000
-造道・八重田線(49021),4000020022012,C11 造道・八重田線,,浅虫水族館,3,80FF80,000000
-新町線(49022),4000020022012,B1 新町線,,浅虫水族館,3,80FF80,000000
-造道・八重田線(49081),4000020022012,C11 造道・八重田線,,浅虫水族館,3,80FF80,000000
-造道・八重田線(49091),4000020022012,C11 造道・八重田線,,浅虫水族館,3,80FF80,000000
-新町線(49092),4000020022012,B1 新町線,,浅虫水族館,3,80FF80,000000
-国道・古川線(56021),4000020022012,A1 国道・古川線,,東バイパス線,3,80FF80,000000
-東バイパス線(56022),4000020022012,E10 東バイパス線,,東バイパス線,3,80FF80,000000
-石江・新城線(56041),4000020022012,T50 石江・新城線,,東バイパス線,3,80FF80,000000
-国道・古川線(56061),4000020022012,A1 国道・古川線,,東バイパス線,3,80FF80,000000
-東バイパス線(56062),4000020022012,E10 東バイパス線,,東バイパス線,3,80FF80,000000
-東バイパス線(56072),4000020022012,E10 東バイパス線,,東バイパス線,3,80FF80,000000
-国道・古川線(56091),4000020022012,A1 国道・古川線,,東バイパス線,3,80FF80,000000
-石江・新城線(56101),4000020022012,T50 石江・新城線,,東バイパス線,3,80FF80,000000
-東バイパス線(56112),4000020022012,E10 東バイパス線,,東バイパス線,3,80FF80,000000
-西バイパス線(49131),4000020022012,U5 西バイパス線,,浅虫水族館,3,80FF80,000000
-造道・八重田線(49132),4000020022012,C11 造道・八重田線,,浅虫水族館,3,80FF80,000000
-浜田循環(80031),4000020022012,浜田循環,,浜田循環線,3,80FF80,000000
-浜田循環(80041),4000020022012,浜田循環,,浜田循環線,3,80FF80,000000
-新町線(12192),4000020022012,B1 新町線,,戸山団地,3,80FF80,000000
-中央大橋線(12211),4000020022012,L21 中央大橋線,,戸山団地,3,80FF80,000000
-国道・古川線(12212),4000020022012,A1 国道・古川線,,戸山団地,3,80FF80,000000
-中央大橋線(16151),4000020022012,L31 中央大橋線,,青森公立大学,3,80FF80,000000
-国道・古川線(16152),4000020022012,A1 国道・古川線,,青森公立大学,3,80FF80,000000
-西バイパス線(41121),4000020022012,U50 西バイパス線,,西バイパス,3,80FF80,000000
-造道・八重田線(41112),4000020022012,C12 造道・八重田線,,西バイパス,3,80FF80,000000
-大野循環(85011),4000020022012,大野循環,,,3,80FF80,000000
-観光通り線(21081),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-観光通り線(21051),4000020022012,K34 観光通り線,,市民病院,3,80FF80,000000
-沖舘・新田線(21082),4000020022012,W53 沖舘・新田線,,市民病院,3,80FF80,000000
-沖舘・新田線(22142),4000020022012,W53 沖舘・新田線,,問屋町,3,80FF80,000000
-沖舘・新田線(28042),4000020022012,W53 沖舘・新田線,,荒川,3,80FF80,000000
-造道・八重田線(45012),4000020022012,C10 造道・八重田線,,野木和団地,3,80FF80,000000
-造道・八重田線(45022),4000020022012,C10 造道・八重田線,,野木和団地,3,80FF80,000000
-造道・八重田線(45142),4000020022012,C12 造道・八重田線,,野木和団地,3,80FF80,000000
-沖舘・新田線(45021),4000020022012,W53 沖舘・新田線,,野木和団地,3,80FF80,000000
-沖舘・新田線(45011),4000020022012,W53 沖舘・新田線,,野木和団地,3,80FF80,000000
-沖舘・新田線(45181),4000020022012,W53 沖舘・新田線,,野木和団地,3,80FF80,000000
-沖舘・新田線(45141),4000020022012,W53 沖舘・新田線,,野木和団地,3,80FF80,000000
-沖舘・新田線(45191),4000020022012,W53 沖舘・新田線,,野木和団地,3,80FF80,000000
-野木和団地線(42021),4000020022012,,1,野木和団地,3,80FF80,000000
-沖舘・新田線(42022),4000020022012,W53 沖舘・新田線,,野木和団地,3,80FF80,000000
-福祉増進センタ(48151),4000020022012,60 福祉増進センタ,,福祉増進センタ－,3,80FF80,000000
-沖舘・新田線(48152),4000020022012,W53 沖舘・新田線,,福祉増進センタ－,3,80FF80,000000
-造道・八重田線(47012),4000020022012,C10 造道・八重田線,,奥内・後潟,3,80FF80,000000
-沖舘・新田線(47011),4000020022012,W54 沖舘・新田線,,奥内・後潟,3,80FF80,000000
-沖舘・新田線(47021),4000020022012,W54 沖舘・新田線,,奥内・後潟,3,80FF80,000000
-福祉増進センタ(48231),4000020022012,60 福祉増進センタ,,福祉増進センタ－,3,80FF80,000000
-沖舘・新田線(48232),4000020022012,W54 沖舘・新田線,,福祉増進センタ－,3,80FF80,000000
-福祉増進センタ(48221),4000020022012,60 福祉増進センタ,,福祉増進センタ－,3,80FF80,000000
-造道・八重田線(38102),4000020022012,A1 造道・八重田線,,細越,3,80FF80,000000
-浪館通り線(38111),4000020022012,P41 浪館通り線,,細越,3,80FF80,000000
-石江・新城線(42011),4000020022012,T50 石江・新城線,,野木和団地,3,80FF80,000000
-沖舘・新田線(42012),4000020022012,W53 沖舘・新田線,,新城,3,80FF80,000000
-新城線(42032),4000020022012,,1,新城,3,80FF80,000000
-石江・新城線(42031),4000020022012,T50 石江・新城線,,新城,3,80FF80,000000
-福祉増進センター(48122),4000020022012,60 福祉増進センター,,福祉増進センタ－,3,80FF80,000000
-沖館・新田線(42052),4000020022012,W53 沖館・新田線,,新城,3,80FF80,000000
-浪館中央循環(82031),4000020022012,浪館中央循環,,浪館中央循環線,3,80FF80,000000
-浪館中央循環(82032),4000020022012,浪館中央循環,,浪館中央循環線,3,80FF80,000000
-旭町通り線(18001),4000020022012,M36 旭町通り線,,サンドーム,3,80FF80,000000
-国道・古川線(18002),4000020022012,A1 国道・古川線,,サンドーム,3,80FF80,000000
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,jp_parent_route_id
+002,8000020130001,波０１（ＮＭ０１）,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=2,F1B34E,350800,
+003,8000020130001,市０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=3,B779B7,FAF6FB,
+006,8000020130001,都０１（Ｔ０１）,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=6,00A9E8,FFFFFF,
+008,8000020130001,ＲＨ０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=8,BB7AAA,FFFFFF,
+010,8000020130001,ＣＨ０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=10,E90087,FFF0FF,
+014,8000020130001,ＦＬ０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=14,C68C78,FFFFFF,
+015,8000020130001,江東０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=15,1DA366,FFFFFF,
+017,8000020130001,豊洲０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=17,EC9288,FFFFFF,
+018,8000020130001,海０１（ＫＭ０１）,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=18,D0086E,FFFFFF,
+019,8000020130001,学０２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=19,6653A8,FFFFFF,
+020,8000020130001,都０２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=20,B071B6,FFFFFF,
+021,8000020130001,都０２乙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=21,4986BC,FFFFFF,
+022,8000020130001,深夜０２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=22,D5A007,FFFFFF,
+023,8000020130001,都０３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=23,8878C1,FFFFFF,
+024,8000020130001,学０３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=24,5AC17C,FFFFFF,
+025,8000020130001,深夜０３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=25,00911F,FFFFFF,
+026,8000020130001,都０４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=26,29B369,FFFFFF,
+027,8000020130001,学０５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=27,4A81BA,FFFFFF,
+028,8000020130001,急行０５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=28,B9569F,FFFFFF,
+031,8000020130001,都０６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=31,8B3F8C,FFFFFF,
+032,8000020130001,学０６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=32,F7BF10,2A1000,
+033,8000020130001,急行０６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=33,0AB16C,FFFFFF,
+034,8000020130001,深夜０７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=34,DF0000,FFFFFF,
+036,8000020130001,都０７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=36,0B963C,FFFFFF,
+038,8000020130001,都０８（Ｔ０８）,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=38,006AB5,FFFFFF,
+040,8000020130001,業１０,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=40,00ADF3,FFFFFF,
+041,8000020130001,業１０出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=41,00ADF3,FFFFFF,
+042,8000020130001,深夜１１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=42,0034A7,FFFFFF,
+043,8000020130001,木１１乙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=43,6E91B8,FFFFFF,
+044,8000020130001,錦１１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=44,FCB03E,280600,
+045,8000020130001,木１１甲,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=45,C69460,FFFFFF,
+046,8000020130001,錦１３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=46,F33825,FFFFFF,
+047,8000020130001,錦１３出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=47,F33825,FFFFFF,
+049,8000020130001,東１５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=49,B8ADD4,FFFFFF,
+050,8000020130001,東１６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=50,C88243,FFFFFF,
+051,8000020130001,錦１８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=51,F4A143,FFFFFF,
+052,8000020130001,門１９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=52,9EB94D,FFFFFF,
+053,8000020130001,陽２０,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=53,887AB5,FFFFFF,
+055,8000020130001,新小２０,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=55,EFB23A,FFFFFF,
+056,8000020130001,西葛２０甲,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=56,10A152,FFFFFF,
+057,8000020130001,西葛２０乙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=57,C19460,FFFFFF,
+058,8000020130001,亀２１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=58,FBCC4A,271100,
+059,8000020130001,門２１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=59,13AE65,FFFFFF,
+060,8000020130001,新小２１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=60,DC0144,FFFFFF,
+061,8000020130001,葛西２１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=61,79A5D9,FFFFFF,
+062,8000020130001,里２２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=62,4B8D7B,FFFFFF,
+063,8000020130001,東２２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=63,466E96,FFFFFF,
+064,8000020130001,錦２２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=64,EB7549,FFFFFF,
+066,8000020130001,葛西２２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=66,F45D3A,FFFFFF,
+067,8000020130001,臨海２２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=67,F5AC44,FFFFFF,
+068,8000020130001,新小２２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=68,3D9B80,FFFFFF,
+070,8000020130001,上２３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=70,99B1DD,FFFFFF,
+071,8000020130001,上２３出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=71,99B1DD,FFFFFF,
+072,8000020130001,亀２３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=72,3F86C2,FFFFFF,
+073,8000020130001,平２３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=73,95B2B6,FFFFFF,
+074,8000020130001,草２４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=74,14A862,FFFFFF,
+075,8000020130001,亀２４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=75,96C528,FFFFFF,
+076,8000020130001,葛西２４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=76,367CBD,FFFFFF,
+077,8000020130001,錦２５出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=77,E08673,FFFFFF,
+078,8000020130001,錦２５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=78,E08673,FFFFFF,
+079,8000020130001,上２６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=79,E860A0,FFFFFF,
+080,8000020130001,西葛２６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=80,AAD14E,FFFFFF,
+081,8000020130001,秋２６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=81,D79B47,FFFFFF,
+082,8000020130001,亀２６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=82,8979C7,FFFFFF,
+083,8000020130001,錦２７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=83,0EAD66,FFFFFF,
+084,8000020130001,錦２７－２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=84,E26099,FFFFFF,
+085,8000020130001,西葛２７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=85,4386C1,FFFFFF,
+086,8000020130001,平２８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=86,DE6F9E,FFFFFF,
+087,8000020130001,両２８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=87,1BA5EA,FFFFFF,
+088,8000020130001,船２８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=88,6E9F8E,FFFFFF,
+089,8000020130001,錦２８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=89,EC96BB,FFFFFF,
+091,8000020130001,新小２９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=91,AB558D,FFFFFF,
+092,8000020130001,亀２９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=92,DD5E97,FFFFFF,
+093,8000020130001,門３３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=93,B27B5A,FFFFFF,
+094,8000020130001,錦３７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=94,32B36B,FFFFFF,
+096,8000020130001,草３９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=96,B5CF6D,000000,
+097,8000020130001,王４０丙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=97,F6C543,2C1000,
+098,8000020130001,王４０出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=98,85A400,FFFFFF,
+099,8000020130001,王４０甲,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=99,85A400,FFFFFF,
+100,8000020130001,王４１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=100,00A9E2,FFFFFF,
+101,8000020130001,草４１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=101,C5D188,0B0903,
+102,8000020130001,東４２－１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=102,F4C60E,230500,
+103,8000020130001,東４２－３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=103,9C9977,FFFFFF,
+105,8000020130001,東４３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=105,BE8855,FFFFFF,
+106,8000020130001,草４３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=106,B35999,FFFFFF,
+107,8000020130001,端４４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=107,1EAA6A,FFFFFF,
+108,8000020130001,王４５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=108,F8C01D,250900,
+109,8000020130001,上４６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=109,F18C2C,FFFFFF,
+110,8000020130001,北４７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=110,FFDB82,260A00,
+112,8000020130001,里４８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=112,FDAF4C,000000,
+116,8000020130001,王４９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=116,A5C701,FFFFFF,
+117,8000020130001,茶５１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=117,B1D25D,061D00,
+118,8000020130001,王５５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=118,BB85B1,FFFFFF,
+119,8000020130001,王５７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=119,267B6B,FFFFFF,
+120,8000020130001,上５８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=120,227AB7,FFFFFF,
+121,8000020130001,上６０,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=121,F7A341,FFFFFF,
+122,8000020130001,白６１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=122,960085,FFFFFF,
+124,8000020130001,飯６２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=124,FBCC35,2A1200,
+125,8000020130001,橋６３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=125,77A797,FFFFFF,
+126,8000020130001,草６３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=126,DF361C,FFFFFF,
+127,8000020130001,飯６４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=127,0B9C4F,FFFFFF,
+128,8000020130001,草６４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=128,3D83CF,FFFFFF,
+129,8000020130001,池６５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=129,008A3D,FFFFFF,
+130,8000020130001,渋６６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=130,A0C322,FFFFFF,
+131,8000020130001,上６９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=131,83C667,FFFFFF,
+133,8000020130001,高７１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=133,769DBA,FFFFFF,
+134,8000020130001,宿７４出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=134,02A051,FFFFFF,
+135,8000020130001,宿７４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=135,02A051,FFFFFF,
+137,8000020130001,宿７５出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=137,91A48D,FFFFFF,
+138,8000020130001,宿７５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=138,91A48D,FFFFFF,
+141,8000020130001,黒７７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=141,F8A23E,FFFFFF,
+147,8000020130001,早７７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=147,DB3616,FFFFFF,
+148,8000020130001,王７８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=148,728FB2,FFFFFF,
+149,8000020130001,早８１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=149,F35D9C,FFFFFF,
+151,8000020130001,橋８６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=151,0CB46B,FFFFFF,
+152,8000020130001,池８６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=152,EB8F2B,FFFFFF,
+153,8000020130001,田８７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=153,DD027F,FFFFFF,
+154,8000020130001,渋８８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=154,D67B60,FFFFFF,
+155,8000020130001,渋８８出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=155,D67B60,FFFFFF,
+157,8000020130001,品９１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=157,EE3519,FFFFFF,
+158,8000020130001,宿９１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=158,63C07A,FFFFFF,
+159,8000020130001,田９２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=159,6F91C0,FFFFFF,
+160,8000020130001,井９２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=160,029148,FFFFFF,
+161,8000020130001,品９３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=161,00AEEC,FFFFFF,
+162,8000020130001,反９４,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=162,F1B64B,351706,
+163,8000020130001,浜９５,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=163,FBDA49,35161B,
+165,8000020130001,品９６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=165,963F3C,FFFFFF,
+166,8000020130001,反９６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=166,E5628A,FFFFFF,
+167,8000020130001,井９６,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=167,AB5296,FFFFFF,
+169,8000020130001,品９７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=169,B1D25F,000000,
+170,8000020130001,品９８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=170,34AE70,FFFFFF,
+172,8000020130001,井９８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=172,FFE16B,231D00,
+173,8000020130001,品９９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=173,0158B2,FFFFFF,
+174,8000020130001,田９９,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=174,76A696,FFFFFF,
+175,8000020130001,臨海２８－１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=175,E37B57,FFFFFF,
+176,8000020130001,臨海２８－２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=176,71C28B,FFFFFF,
+177,8000020130001,錦４０,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=177,7E72A0,FFFFFF,
+178,8000020130001,深夜１２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=178,017AC7,FFFFFF,
+179,8000020130001,深夜１３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=179,008E2E,FFFFFF,
+181,8000020130001,都０５－２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=181,FBC303,370E00,
+183,8000020130001,都０５－１出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=183,FBC303,370E00,
+184,8000020130001,都０５－１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=184,FBC303,370E00,
+185,8000020130001,池８６出入,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=185,EA902A,FFFFFF,
+186,8000020130001,錦２７－３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=186,11AD66,FFFFFF,
+188,8000020130001,直行０３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=188,A1ABB3,FFFFFF,
+190,8000020130001,陽１２－１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=190,F1AAC8,3D0319,
+191,8000020130001,陽１２－２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=191,8AB81F,FFFFFF,
+192,8000020130001,陽１２－３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=192,3171A9,FFFFFF,
+193,8000020130001,練６８,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=193,A9A6D6,FFFFFF,
+194,8000020130001,臨海２８－３,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=194,F47691,FFFFFF,
+195,8000020130001,東４２－２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=195,FDC404,240700,
+196,8000020130001,里４８－２,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=196,E65A85,FFFFFF,
+198,8000020130001,上０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=198,0CB168,FFFFFF,
+199,8000020130001,茶０７,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=199,88A484,FFFFFF,
+280,8000020130001,梅７０,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=280,00933D,FFFFFF,
+281,8000020130001,梅７４甲,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=281,078DC0,FFFFFF,
+282,8000020130001,梅７４乙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=282,F07A54,FFFFFF,
+283,8000020130001,梅７６甲,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=283,BC8D7D,FFFFFF,
+285,8000020130001,梅７６丙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=285,E60174,FFFFFF,
+286,8000020130001,梅７７甲,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=286,77BC2D,FFFFFF,
+287,8000020130001,梅７７乙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=287,8649A7,FFFFFF,
+288,8000020130001,梅７７丙,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=288,B08B5B,FFFFFF,
+289,8000020130001,梅７７丁,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=289,EB6C78,FFFFFF,
+291,8000020130001,梅０１,,,3,https://tobus.jp/blsys/navi?VCD=cresultapr&ECD=rsirslt&LCD=&RTMCD=291,7B6FAE,FFFFFF,
